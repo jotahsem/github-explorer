@@ -2,7 +2,7 @@ import { RepositoryItem } from "./RepositoryItem";
 
 const repository = {
     name: "unform",
-    description: "forms em react",
+    description: "forms in react",
     link: "https://github.com/unform/unform"
 }
 
